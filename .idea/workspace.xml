@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3040c7c6-a6f8-4392-8465-87b07862a183" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="yzb808" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1mPBOVx2eEuDKyLGETmR0bPzgJj" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/grammar" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\Golang\yzb808\grammar" />
+      <recent name="D:\git\Golang\yzb808" />
+      <recent name="D:\git\Golang\yzb808\grammar\asm" />
+      <recent name="D:\git\Golang\yzb808\datastructure" />
+      <recent name="D:\git\Golang\yzb808\fun2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestEmbedded in yzb808/grammar">
+    <configuration name="go build yzb808" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="yzb808" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-gcflags &quot;-S -N -l&quot;" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="yzb808" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestEmbedded in yzb808/grammar" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="yzb808" />
+      <working_directory value="$PROJECT_DIR$/grammar" />
+      <go_parameters value="-gcflags &quot;-S -N -l&quot;" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="yzb808/grammar" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestEmbedded$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInterface4 in yzb808/grammar" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="yzb808" />
+      <working_directory value="$PROJECT_DIR$/grammar" />
+      <go_parameters value="-gcflags &quot;-S -N -l&quot;" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="yzb808/grammar" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestInterface4$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestStructFunc in yzb808/grammar" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+      <module name="yzb808" />
+      <working_directory value="$PROJECT_DIR$/grammar" />
+      <go_parameters value="-gcflags &quot;-S -N -l&quot;" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="yzb808/grammar" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestStructFunc$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build yzb808" />
+      <item itemvalue="Go Test.TestStructFunc in yzb808/grammar" />
+      <item itemvalue="Go Test.TestInterface4 in yzb808/grammar" />
+      <item itemvalue="Go Test.TestEmbedded in yzb808/grammar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestEmbedded in yzb808/grammar" />
+        <item itemvalue="Go Test.TestInterface4 in yzb808/grammar" />
+        <item itemvalue="Go Test.TestInterface4 in yzb808/grammar" />
+        <item itemvalue="Go Build.go build yzb808" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623844672003">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="416" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623844672003" />
+    <state x="703" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617785795371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.139.1920.1040@0.0.1920.1040" timestamp="1617785795371" />
+    <state width="1878" height="334" key="GridCell.Tab.0.bottom" timestamp="1624619629969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624619629969" />
+    <state width="1878" height="334" key="GridCell.Tab.0.center" timestamp="1624619629969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="334" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624619629969" />
+    <state width="1878" height="334" key="GridCell.Tab.0.left" timestamp="1624619629969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="334" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624619629969" />
+    <state width="1878" height="334" key="GridCell.Tab.0.right" timestamp="1624619629969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="334" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624619629969" />
+    <state x="634" y="252" width="655" height="534" key="find.popup" timestamp="1623842212283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="252" width="655" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1623842212283" />
+    <state x="711" y="314" width="672" height="678" key="search.everywhere.popup" timestamp="1623836647503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="314" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1623836647503" />
+  </component>
+</project>
